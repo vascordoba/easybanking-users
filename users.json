@@ -2,6 +2,84 @@
   {
     "username": "john_doe",
     "name": "John Doe",
-    "password": "test123$"
+    "password": "test123$",
+    "agenda": [
+      {
+        "username": "jane_doe",
+        "name": "Jane Doe"
+      },
+      {
+        "username": "albert_doe",
+        "name": "Albert Doe"
+      },
+      {
+        "username": "susan_doe",
+        "name": "Susan Doe"
+      },
+      {
+        "username": "max_doe",
+        "name": "Max Doe"
+      }
+    ]
+  },
+  {
+    "username": "jane_doe",
+    "name": "Jane Doe",
+    "password": "test123$",
+    "agenda": [
+      {
+        "username": "john_doe",
+        "name": "John Doe"
+      },
+      {
+        "username": "albert_doe",
+        "name": "Albert Doe"
+      }
+    ]
+  },
+  {
+    "username": "susan_doe",
+    "name": "Susan Doe",
+    "password": "test123$",
+    "agenda": [
+      {
+        "username": "john_doe",
+        "name": "John Doe"
+      },
+      {
+        "username": "albert_doe",
+        "name": "Albert Doe"
+      }
+    ]
+  },
+  {
+    "username": "albert_doe",
+    "name": "Albert Doe",
+    "password": "test123$",
+    "agenda": [
+      {
+        "username": "john_doe",
+        "name": "John Doe"
+      },
+      {
+        "username": "max_doe",
+        "name": "Max Doe"
+      }
+    ]
+  },
+  {
+    "username": "max_doe",
+    "name": "Max Doe",
+    "password": "test123$",
+    "agenda": [
+      {
+        "username": "jane_doe",
+        "name": "Jane Doe"
+      },
+      {
+        "username": "albert_doe",
+        "name": "Albert Doe"
+      }
+    ]
   }
 ]
