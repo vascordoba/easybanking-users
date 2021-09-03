@@ -1,0 +1,9 @@
+{
+  "tasaPlazoFijo1m": 0.34,
+  "tasaPlazoFijo": 0.37,
+  "tasaPlazoFijoUva": 0.01,
+  "valorUva": 85.35,
+  "valorUvi": 87.42,
+  "incrementoUvaDiario": 0.08,
+  "incrementoUviDiario": 0.12
+}
