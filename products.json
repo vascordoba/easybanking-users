@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 12 Pro",
+    "price": 300000.0,
+    "img": "img/iphone12pro.png"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy A32",
+    "price": 36000.0,
+    "img": "img/samsunga32.png"
+  },
+  {
+    "id": 3,
+    "name": "Moto G20",
+    "price": 28000.0,
+    "img": "img/motog20.png"
+  },
+  {
+    "id": 4,
+    "name": "LG Q60",
+    "price": 26000.0,
+    "img": "img/lgq60.png"
+  },
+  {
+    "id": 5,
+    "name": "Alcatel1V",
+    "price": 13000.0,
+    "img": "img/alcatel1v.png"
+  }
+]
